@@ -1,4 +1,9 @@
+# Weather-page-digital-paani
+
+Assignment For Digital Paani
+
 <<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -6,10 +11,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# weather-project
-Its an Assignment for Turinix
+- # [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Weather Dashboard
 
@@ -20,17 +22,13 @@ Welcome to the Weather Dashboard project! This application provides users with r
 - **Real-time Weather Data**: Get up-to-date weather information for any city worldwide.
 - **Air Quality Index (AQI)**: Monitor the air quality in different locations.
 - **Temperature Trends**: View temperature trends over time with interactive charts.
-- **User Authentication**: Secure user authentication with Google OAuth.
 - **Responsive Design**: Access the dashboard seamlessly on desktop and mobile devices.
 
 ## Technologies Used
 
 - **Frontend**: React.js, Recharts, Material-UI, Vite
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: Google OAuth
 - **APIs**: Visual Crossing Weather API, Weather by API Ninjas
-- **Other Libraries**: Axios, JWT Decode, Notistack, React Icons
+- **Other Libraries**: Axios, React Icons
 
 ## RapidAPI Usage
 
@@ -48,6 +46,7 @@ Welcome to the Weather Dashboard project! This application provides users with r
    npm run dev
 
 ## Limitations
+
 **The application is subject to the usage limits imposed by the RapidAPI services. Be mindful of the API call limits to avoid disruptions in service.**
 
 Copyright (c) 2024 **Mohammad Tarique**
@@ -69,4 +68,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
->>>>>>> 9e400fbbd4d886e752d60fb7bd0633f9bdd0dd3b
+
+> > > > > > > 9e400fbbd4d886e752d60fb7bd0633f9bdd0dd3b
